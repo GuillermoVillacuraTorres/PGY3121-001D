@@ -19,3 +19,19 @@ h3{
 li,ul{
     color: blue;
 }
+
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+.contenedor{
+    border:solid blue;
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    align-items: center;
+/*     padding: 20px;
+    margin: 20px; */
+}
